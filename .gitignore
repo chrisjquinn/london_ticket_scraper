@@ -1,0 +1,17 @@
+# Python & Jupyter
+*.ipynb_checkpoints/
+*__pycache__/
+scrapers/*.ipynb
+
+#Tokens etc
+secrets/
+
+
+# Scraped data files
+*.csv
+
+
+#MacOS
+.DS_Store
+
+
